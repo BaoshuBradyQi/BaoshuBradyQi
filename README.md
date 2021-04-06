@@ -2,10 +2,6 @@
 
 <p>I'm Baoshu Qi, currently work as data and machine learning infrastructure engineer.</p>
 
- git status   | git status     | git status    
- git diff     | git diff       | git diff      
-
-
 - e-mail: qjjmail@gmail.com
 - website: https://baoshubradyqi.github.io/
 
